@@ -1,1 +1,2 @@
-# mqtt-sensor-dummydata
+# 실행방법
+nodemon을 통해 실행하시면 됩니다!
